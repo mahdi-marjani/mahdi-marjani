@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/mahdi-marjani?cardType=github&theme=react&preferLogin=false)](https://git.io/awesome-stats-card)
+
 <!--
 **mahdi-marjani/mahdi-marjani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
