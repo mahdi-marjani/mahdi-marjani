@@ -1,18 +1,23 @@
-### Hi there 👋
+## Hi there 👋 I'm Mahdi
 
-[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/mahdi-marjani?cardType=github&theme=react&preferLogin=false)](https://git.io/awesome-stats-card)
+<p align="left">
+  <a href="https://github.com/mahdi-marjani/mahdi-marjani">
+    <img src="https://komarev.com/ghpvc/?username=mahdi-marjani" alt="page views" />
+  </a>
+  <a href="https://github.com/mahdi-marjani?tab=followers">
+    <img alt="GitHub followers" src="https://img.shields.io/github/followers/mahdi-marjani?color=green&logo=github">
+  </a>
+</p>
 
-<!--
-**mahdi-marjani/mahdi-marjani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<br/>
 
-Here are some ideas to get you started:
+### 🔨 Languages and Tools:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+### 📊 Github Stats
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mahdi-marjani&show_icons=true&theme=dark&hide_title=true)
+
+<a href='https://github.com/mahdi-marjani/github-stats-transparent'>
+</a>
+
+<br/>
