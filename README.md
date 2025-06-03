@@ -17,9 +17,15 @@
 <br/>
 
 ### 📊 Github Stats
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mahdi-marjani&show_icons=true&theme=dark&hide_title=true)
+<div id="stats" align="center" style="display: flex; flex-direction: column;">
+    <a style="display: flex; align-items: center;">
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mahdi-marjani&theme=dark" alt="GitHub Profile Summary" style="margin-bottom: 10px;" />
+    </a>
+    <a style="display: flex;">
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mahdi-marjani&theme=dark" style="margin-right: 10px;">
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mahdi-marjani&theme=dark">
+    </a>
+</div>
 
-<a href='https://github.com/mahdi-marjani/github-stats-transparent'>
-</a>
 
 <br/>
