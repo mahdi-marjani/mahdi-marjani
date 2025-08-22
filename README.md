@@ -1,14 +1,5 @@
 ## Hi there 👋 I'm Mahdi
 
-<p align="left">
-  <a href="https://github.com/mahdi-marjani/mahdi-marjani">
-    <img src="https://komarev.com/ghpvc/?username=mahdi-marjani" alt="page views" />
-  </a>
-  <a href="https://github.com/mahdi-marjani?tab=followers">
-    <img alt="GitHub followers" src="https://img.shields.io/github/followers/mahdi-marjani?color=green&logo=github">
-  </a>
-</p>
-
 <br/>
 
 ### 🔨 Languages and Tools:
@@ -35,10 +26,6 @@
 <div id="stats" align="center" style="display: flex; flex-direction: column;">
     <a style="display: flex; align-items: center;">
         <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mahdi-marjani&theme=dark" alt="GitHub Profile Summary" style="margin-bottom: 10px;" />
-    </a>
-    <a style="display: flex;">
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mahdi-marjani&theme=dark" style="margin-right: 10px;">
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mahdi-marjani&theme=dark">
     </a>
 </div>
 
